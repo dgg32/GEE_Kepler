@@ -6,7 +6,7 @@
 
   
 
-This repository contains code my article "[Level up Google Earth Engine with Kepler.gl](https://dgg32.medium.com/monitor-vegetation-with-google-earth-engine-909a2ad51a48)".
+This repository contains code my article "[Level up Google Earth Engine with Kepler.gl](https://dgg32.medium.com/level-up-google-earth-engine-with-kepler-gl-ae21261854d6)".
 
 
 
